@@ -31,5 +31,7 @@ en el notebook.
 
 ## Integrantes
 MONTOYA GALINDO, BRYAN
+
 QUINTERO LEON, ANDREA
+
 SANTIAGO DONADO, WILMER
